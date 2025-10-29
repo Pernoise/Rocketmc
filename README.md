@@ -24,11 +24,10 @@ Lightweight and fast
 
 Supports modded and vanilla Minecraft
 
-📜 Credits
-
 RocketMC is based on OpenLauncher, originally created by CesarGarza55
-. Huge thanks to them for their work! All original credit goes to the OpenLauncher developers.
+. Huge thanks to them for the launcher and the logo used in this project.
 
+The name RocketMC was inspired by ONE from the Blake Discord server ( he didn't ask to be credited but he's not gonnna sue me if I did ONE you don't have the guts to sue me bro).
 
 
 
