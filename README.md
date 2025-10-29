@@ -1,7 +1,7 @@
 <p align="center">
   <img width="100px" src="data/img/icon.webp" align="center" alt="OpenLauncher" />
   <h2 align="center">RocketMC Launcher</h2>
-  <p align="center">An open-source Minecraft launcher for Windows and Linux.</p>
+  <p align="center">An open-source Minecraft launcher for Windows , Linux and MacOS.</p>
 </p>
 
 <p align="center">
@@ -255,6 +255,7 @@ You can review the Terms and Conditions and the Privacy Policy regarding the use
 By using OpenLauncher, you agree to comply with these terms and acknowledge that you have read and understood my privacy practices. I am committed to protecting your personal information and ensuring transparency in how I handle your data. For any questions or concerns, please contact me at [support@codevbox.com](mailto:support@codevbox.com?subject=OpenLauncher%20Terms%20of%20Service).
 
 Thank you for using OpenLauncher!
+
 
 
 
