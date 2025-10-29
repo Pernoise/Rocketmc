@@ -177,21 +177,6 @@ You can install, activate and deactivate mods with the mod manager:
 
 <img width="994" height="600" alt="image" src="https://github.com/user-attachments/assets/265efff3-a5e0-4c8c-92b2-61869d97ef35" />
 
-## 🧪 Testing
-My PC Specs:
-- CPU: AMD Ryzen 5 5600g (3.90 GHz)
-- GPU: Radeon Vega 7 Graphics
-- RAM: 32GB DDR4 DIMM 3200MT/s
-- Operating System: Windows 11 24H2 (26100.6584)
-
-Tested Minecraft Version:
-- Playing on a private server
-- FPS: 200+
-- Launcher version: Beta - 1.6.0
-- RAM Allocated: 2GB (Default JVM Arguments)
-- Minecraft Version: 1.21.4
-- Fabric: 0.16.14
-- Shaders: [MakeUp-UltraFast-9.1b](https://modrinth.com/shader/makeup-ultra-fast-shaders)
 
 <img width="996" height="594" alt="image" src="https://github.com/user-attachments/assets/0c281667-7871-414f-b50c-922f91fb88b4" />
 
@@ -250,9 +235,10 @@ You can review the Terms and Conditions and the Privacy Policy regarding the use
 
 - [Terms and Conditions and Privacy Policy](https://openlauncher.codevbox.com/terms_app)
 
-By using OpenLauncher, you agree to comply with these terms and acknowledge that you have read and understood my privacy practices. I am committed to protecting your personal information and ensuring transparency in how I handle your data. For any questions or concerns, please contact me at [support@codevbox.com](mailto:support@codevbox.com?subject=OpenLauncher%20Terms%20of%20Service).
+By using OpenLauncher, you agree to comply with these terms and acknowledge that you have read and understood my privacy practices. I am committed to protecting your personal information and ensuring transparency in how I handle your data. For any questions or concerns, please contact me at [pernoise30@gmail.com]
 
 Thank you for using OpenLauncher!
+
 
 
 
