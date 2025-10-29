@@ -12,7 +12,6 @@
 </p>
 <br>
 
-**Note**:  RocketMC is designed only for Windows , Linux and MacOS!!!!.
 
 
 RocketMC is a Minecraft launcher based on OpenLauncher, providing a simple and fast way to launch Minecraft. It supports multiple versions and works with both modded and vanilla Minecraft.
@@ -29,6 +28,7 @@ Supports modded and vanilla Minecraft
 
 RocketMC is based on OpenLauncher, originally created by CesarGarza55
 . Huge thanks to them for their work! All original credit goes to the OpenLauncher developers.
+
 
 
 
