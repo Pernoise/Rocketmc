@@ -39,8 +39,6 @@ If you are going to compile it yourself, the process is included in `compile-lin
 ## 🚀 Features
 
 - **Microsoft Account Login**: Supports logging in with an official Microsoft account.
-- **Discord Rich Presence**: Displays fun messages while you play.
-- **Customizable Interface**: Utilizes PyQt5 for a modern and customizable look.
 - **Minecraft Compatibility**: Manages Minecraft versions using the `minecraft_launcher_lib` library.
 - **Open Source**: Easily extendable and modifiable by the community.
 - **Multiplatform**: Available for Windows and Linux operating systems.
@@ -255,6 +253,7 @@ You can review the Terms and Conditions and the Privacy Policy regarding the use
 By using OpenLauncher, you agree to comply with these terms and acknowledge that you have read and understood my privacy practices. I am committed to protecting your personal information and ensuring transparency in how I handle your data. For any questions or concerns, please contact me at [support@codevbox.com](mailto:support@codevbox.com?subject=OpenLauncher%20Terms%20of%20Service).
 
 Thank you for using OpenLauncher!
+
 
 
 
