@@ -1,9 +1,9 @@
 [Desktop Entry]
-Version=1.6.0
+Version=1.0.0
 Type=Application
 Name=RocketMC
 Comment=RocketMC is an open source Minecraft launcher developed in Python
-Exec=openlauncher
-Icon=openlauncher
+Exec=rocketmc
+Icon=rocketmc
 Terminal=false
 Categories=Game;
