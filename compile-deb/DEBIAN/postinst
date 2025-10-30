@@ -7,7 +7,7 @@ BLUE='\033[0;34m'
 NC='\033[0m' # No Color
 
 echo -e "${GREEN}RocketMC has been installed successfully!${NC}"
-echo -e "${GREEN}You can now run RocketMC by typing 'openlauncher' in your terminal or by searching for it in your application menu.${NC}"
-echo -e "${GREEN}If you have any issues, please report them at ${BLUE}https://github.com/CesarGarza55/RocketMC/issues${NC}"
+echo -e "${GREEN}You can now run RocketMC by typing 'Rocketmc' in your terminal.${NC}"
+echo -e "${GREEN}If you have any issues, please report them at ${BLUE}https://discord.com/invite/Tt5tFJ7d93${NC}"
 echo -e "${GREEN}Don't forget to check out the website at ${BLUE}https://openlauncher.codevbox.com${NC}"
 echo -e "${GREEN}Enjoy!${NC}"
