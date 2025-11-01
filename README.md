@@ -24,7 +24,7 @@ Simple setup, multi-OS support, and modern Python architecture.
 
 ---
 
-### ⚡ Features
+# ⚡ Features
 
 - 🧩 **Multi-Version Support**  
   Easily switch between Minecraft versions — from classic releases to the latest snapshots.
@@ -101,3 +101,4 @@ Use it, fork it, modify it — just don’t slap a new icon on it and call it �
 
 Because it just works.
 No paywalls, no ads, no nonsense — just a launcher that respects your time and system resources.
+
